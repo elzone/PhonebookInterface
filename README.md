@@ -1,6 +1,6 @@
 # phonebook
 
-[Live preview](https://elzone.github.io/phonebook-interface/)
+## [Live preview](https://elzone.github.io/phonebook-interface/)
 
 ## Project setup
 ```
