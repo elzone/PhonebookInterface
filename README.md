@@ -1,5 +1,10 @@
 # phonebook
 
+# Live preview
+```
+https://elzone.github.io/phonebook-interface/
+```
+
 ## Project setup
 ```
 npm install

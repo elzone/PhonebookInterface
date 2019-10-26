@@ -42,7 +42,7 @@ export default {
     this.xmlhttp = new XMLHttpRequest();
     this.xmlhttp.onreadystatechange = this.getServerData
 
-    this.xmlhttp.open("GET", "http://www.mocky.io/v2/581335f71000004204abaf83", true);
+    this.xmlhttp.open("GET", "https://www.mocky.io/v2/581335f71000004204abaf83", true);
     this.xmlhttp.send();
   },
   methods: {
